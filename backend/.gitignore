@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+tasks.db
+tasks.db-journal
+tasks.db-wal
+tasks.db-shm
+.env
+.env.*

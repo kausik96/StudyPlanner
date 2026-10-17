@@ -1,0 +1,28 @@
+# Local credentials and configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local SQLite data and backups
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.bak
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Local logs and editor settings
+*.log
+.vscode/
+.idea/
+.DS_Store
